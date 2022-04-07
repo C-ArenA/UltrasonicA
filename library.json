@@ -1,0 +1,22 @@
+{
+	"name": "UltrasonicA",
+	"version": "1.0.0",
+	"description": "A library to help you use your ultrasonic Sensor",
+	"keywords": "distance, sensor, ultrasonic",
+	"repository":
+	{
+	  "type": "git",
+	  "url": ""
+	},
+	"authors":
+	[
+	  {
+		"name": "Carlos Arena",
+		"email": "carlostata.ca@gmail.com",
+		"maintainer": true
+	  }
+	],
+	"license": "MIT",
+	"frameworks": "arduino",
+	"platforms": "*"
+  }
