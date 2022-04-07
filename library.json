@@ -1,6 +1,6 @@
 {
 	"name": "UltrasonicA",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A library to help you use your ultrasonic Sensor",
 	"keywords": "distance, sensor, ultrasonic",
 	"repository":
@@ -14,6 +14,11 @@
 		"name": "Carlos Arena",
 		"email": "carlostata.ca@gmail.com",
 		"maintainer": true
+	  },
+	  {
+		"name": "VReality",
+		"email": "info@vrealitybolivia.com",
+		"url": "https://vrealitybolivia.com"
 	  }
 	],
 	"license": "MIT",
