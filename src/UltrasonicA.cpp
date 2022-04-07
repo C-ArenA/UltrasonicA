@@ -1,6 +1,7 @@
 /*
 	Helps you use ultrasonic sensors
 	By Carlos Arena (arenamovediza)
+	By VReality (https://vrealitybolivia.com)
 */
 
 #include <UltrasonicA.h>

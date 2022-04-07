@@ -1,6 +1,6 @@
 {
 	"name": "UltrasonicA",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A library to help you use your ultrasonic Sensor",
 	"keywords": "distance, sensor, ultrasonic",
 	"repository":
